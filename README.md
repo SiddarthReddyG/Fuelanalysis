@@ -1,6 +1,3 @@
-Sure, here's a README file for your code:
-
----
 
 # Analysis of MPG Dataset
 
